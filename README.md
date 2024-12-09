@@ -1,4 +1,4 @@
-<h1>Spam Email Classifier</h1>
+<h1>Spam Email Classification using NLP & ML</h1>
 This project demonstrates how to build a Spam Email Classifier using Natural Language Processing (NLP) and Machine Learning techniques. The classifier processes email text, extracts features using TF-IDF Vectorization, and trains an SVM (Support Vector Machine) to distinguish between spam and non-spam (ham) emails.
 
 <h2>Features</h2>
