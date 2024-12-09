@@ -1,0 +1,16 @@
+altair==5.4.1
+attrs==24.2.0
+blinker==1.8.2
+cachetools==5.5.0
+certifi==2024.8.30
+charset-normalizer==3.3.2
+colorama==0.4.6
+joblib==1.4.2
+nltk==3.9.1
+numpy==2.1.0
+pandas==2.2.2
+matplotlib==3.8.0
+scikit-learn==1.5.1
+scipy==1.14.1
+tqdm==4.66.5
+pickle-mixin==1.0.2
