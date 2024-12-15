@@ -31,7 +31,7 @@ def predict_email(email):
     cleaned_email = clean_text(email)
     vectorized_email = vectorizer.transform([cleaned_email])
     prediction = model.predict(vectorized_email)
-    return "Not a Spam" if prediction[0] == 0 else "Spam"
+    return "Ham" if prediction[0] == 0 else "Spam"
 
 # Streamlit app interface
 st.title("📧 Spam Email Detection")
